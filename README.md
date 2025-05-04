@@ -56,7 +56,7 @@ I found it really helpful during my preparation.
 Create a sheet and list down common questions and their answers for each project. 
 
 You can clone the Notion page and fill this sheet based on your experience.
-![Interview Preparation Grid](https://www.imghippo.com/i/yC2110sDU.png)
+![Interview Preparation Grid](https://i.imghippo.com/files/yC2110sDU.png)
 
 ## 🚀 Questions
 **Disclaimer:** Please note that the provided sample responses to these questions are intended to serve as inspiration. During the actual interview, you should provide your own examples based on your past experiences.
