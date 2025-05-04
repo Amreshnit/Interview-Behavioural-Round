@@ -1,10 +1,4 @@
 # Interview-Behavioural-Round
-<p align="center">
-  <img src="images/behvaioral-repo-logo.png" width="350" height="200">
-</p>
-<p align="center">
-  <a href="https://blog.algomaster.io/">Join Free Newsletter</a>
-</p>
 
 This repository contains tips and resources to prepare for Behavioral interviews.
 
@@ -62,9 +56,7 @@ I found it really helpful during my preparation.
 Create a sheet and list down common questions and their answers for each project. 
 
 You can clone the Notion page and fill this sheet based on your experience.
-![Interview Preparation Grid](images/interview-preparation-grid.png)
-[Notion Page](https://ashishps.notion.site/ashishps/Behavioral-Interview-Preparation-Grid-95f97d42f3494d86a3a683752c4b54b5)
-
+![Interview Preparation Grid](https://www.imghippo.com/i/yC2110sDU.png)
 
 ## 🚀 Questions
 **Disclaimer:** Please note that the provided sample responses to these questions are intended to serve as inspiration. During the actual interview, you should provide your own examples based on your past experiences.
